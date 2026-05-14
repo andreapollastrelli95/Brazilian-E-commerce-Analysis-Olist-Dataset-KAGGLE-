@@ -39,10 +39,14 @@ Identificazione delle regioni più redditizie e di quelle con potenziale di cres
 Evidenza della forte dipendenza da pochi stati ad alta densità demografica.
 Visualizzazione chiara della distribuzione geografica e temporale delle vendite.
 Creazione di dashboard intuitive e facilmente navigabili.
-📥 Download del file Power BI (.pbix)
-Il file completo della dashboard è disponibile su OneDrive:
 
-📥 Download del file Power BI (.pbix)
+## 📥 Download del file Power BI
+Per visualizzare la dashboard completa, scarica il file .pbix da OneDrive:
+
+👉 [Brasilian e commerce mappe e fatturato.pbix](https://1drv.ms/u/c/4a5cdf10ec530ace/IQC7NLDZVxMeSrEoA2_xoF1GAWOGBRqM15KkxHb0VH12ALk?e=GIUTCh)
+
+> Nota: il file è ospitato su OneDrive perché supera i limiti di upload di GitHub.
+
 Il file completo della dashboard è disponibile su OneDrive:
 
 👉 Scarica la dashboard Power BI
