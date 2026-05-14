@@ -47,8 +47,3 @@ Per visualizzare la dashboard completa, scarica il file .pbix da OneDrive:
 
 > Nota: il file è ospitato su OneDrive perché supera i limiti di upload di GitHub.
 
-Il file completo della dashboard è disponibile su OneDrive:
-
-👉 Scarica la dashboard Power BI
-
-Nota: il file è ospitato su OneDrive perché supera i limiti di upload di GitHub.
