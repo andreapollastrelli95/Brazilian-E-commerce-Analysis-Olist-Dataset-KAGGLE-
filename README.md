@@ -39,3 +39,11 @@ Identificazione delle regioni più redditizie e di quelle con potenziale di cres
 Evidenza della forte dipendenza da pochi stati ad alta densità demografica.
 Visualizzazione chiara della distribuzione geografica e temporale delle vendite.
 Creazione di dashboard intuitive e facilmente navigabili.
+
+## 📁 Download del file Power BI
+Il file completo della dashboard è disponibile qui:
+
+👉 [Scarica il file Power BI (.pbix)](https://drive.google.com/file/d/1rX8XwmpRqGgVtQzgmbzaEu5o8o5Iyiok/view?usp=drive_link)
+
+> Nota: il file pesa circa 58 MB, quindi è ospitato su Google Drive.
+
