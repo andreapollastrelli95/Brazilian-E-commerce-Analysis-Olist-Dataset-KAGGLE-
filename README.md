@@ -40,12 +40,7 @@ Evidenza della forte dipendenza da pochi stati ad alta densità demografica.
 Visualizzazione chiara della distribuzione geografica e temporale delle vendite.
 Creazione di dashboard intuitive e facilmente navigabili.
 
-## 📥 Download del file Power BI
-Per visualizzare la dashboard completa, scarica il file .pbix da OneDrive:
 
-👉 [Brasilian e commerce mappe e fatturato.pbix](https://1drv.ms/u/c/4a5cdf10ec530ace/IQC7NLDZVxMeSrEoA2_xoF1GAWOGBRqM15KkxHb0VH12ALk?e=GIUTCh)
-
-> Nota: il file è ospitato su OneDrive perché supera i limiti di upload di GitHub.
 > <img width="1867" height="680" alt="image" src="https://github.com/user-attachments/assets/54e73976-37a5-474c-b614-cea7e60a8136" />
 
 
